@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b224b2bb3922b46ed90b6065c7d1bbcf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5f0f5d47c670e4ecfb4e9180045e6e34, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: KUZU
+  m_text: "G\xD6LGE: "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
   m_sharedMaterial: {fileID: 5647252035718468753, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
@@ -228,7 +228,7 @@ MonoBehaviour:
   - language: EN
     text: 
   - language: TR
-    text: KUZU
+    text: "G\xD6LGE: "
 --- !u!1 &6221982782148665710
 GameObject:
   m_ObjectHideFlags: 0
@@ -295,8 +295,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Koyunun yavrusu. Yumu\u015Fac\u0131k t\xFCyleri olan, \u201Cmee\u201D
-    diye ses \xE7\u0131karan sevimli bir hayvan."
+  m_text: "I\u015F\u0131\u011F\u0131n \xF6n\xFCne bir nesne veya canl\u0131 geldi\u011Finde,
+    arkas\u0131nda olu\u015Fan karanl\u0131k \u015Fekil  "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
   m_sharedMaterial: {fileID: 5647252035718468753, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
@@ -383,8 +383,8 @@ MonoBehaviour:
   - language: EN
     text: 
   - language: TR
-    text: "Koyunun yavrusu. Yumu\u015Fac\u0131k t\xFCyleri olan, \u201Cmee\u201D
-      diye ses \xE7\u0131karan sevimli bir hayvan."
+    text: "I\u015F\u0131\u011F\u0131n \xF6n\xFCne bir nesne veya canl\u0131 geldi\u011Finde,
+      arkas\u0131nda olu\u015Fan karanl\u0131k \u015Fekil  "
 --- !u!1 &6828490967732021082
 GameObject:
   m_ObjectHideFlags: 0

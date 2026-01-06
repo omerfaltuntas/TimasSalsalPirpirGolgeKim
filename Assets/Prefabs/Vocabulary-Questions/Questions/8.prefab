@@ -66,7 +66,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "H\u0131zl\u0131"
+  m_text: "\xD6r\xFCmcek \xD6r\xF6r'\xFCn a\u011F\u0131na tak\u0131l\u0131p yakaland\u0131.  "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
   m_sharedMaterial: {fileID: 5647252035718468753, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
@@ -153,7 +153,7 @@ MonoBehaviour:
   - language: EN
     text: 
   - language: TR
-    text: "H\u0131zl\u0131"
+    text: "\xD6r\xFCmcek \xD6r\xF6r'\xFCn a\u011F\u0131na tak\u0131l\u0131p yakaland\u0131.  "
 --- !u!1 &1711535005845304683
 GameObject:
   m_ObjectHideFlags: 0
@@ -220,7 +220,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Arkada\u015Flar\u0131 kuzuyu nas\u0131l tarif eder?"
+  m_text: "P\u0131rp\u0131r g\xF6lge, \xFC\xE7 arkada\u015F\u0131n kar\u015F\u0131s\u0131na
+    son olarak nas\u0131l \xE7\u0131kt\u0131?  "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
   m_sharedMaterial: {fileID: 5647252035718468753, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
@@ -307,7 +308,8 @@ MonoBehaviour:
   - language: EN
     text: 
   - language: TR
-    text: "Arkada\u015Flar\u0131 kuzuyu nas\u0131l tarif eder?"
+    text: "P\u0131rp\u0131r g\xF6lge, \xFC\xE7 arkada\u015F\u0131n kar\u015F\u0131s\u0131na
+      son olarak nas\u0131l \xE7\u0131kt\u0131?  "
 --- !u!1 &2087979378505102169
 GameObject:
   m_ObjectHideFlags: 0
@@ -676,7 +678,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u015Ea\u015Fk\u0131n"
+  m_text: "Sessizce arkalar\u0131nda durup onlar\u0131 izledi.  "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
   m_sharedMaterial: {fileID: 5647252035718468753, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
@@ -763,7 +765,7 @@ MonoBehaviour:
   - language: EN
     text: 
   - language: TR
-    text: "\u015Ea\u015Fk\u0131n"
+    text: "Sessizce arkalar\u0131nda durup onlar\u0131 izledi.  "
 --- !u!1 &6585667338094924715
 GameObject:
   m_ObjectHideFlags: 0
@@ -951,7 +953,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Merakl\u0131"
+  m_text: "Yanlar\u0131ndan 'p\u0131rrr' diye ge\xE7ip kar\u015F\u0131lar\u0131na
+    dikilerek 'B\xF6\xF6\xF6!' diye ba\u011F\u0131rd\u0131.  "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
   m_sharedMaterial: {fileID: 5647252035718468753, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
@@ -1038,7 +1041,8 @@ MonoBehaviour:
   - language: EN
     text: 
   - language: TR
-    text: "Merakl\u0131"
+    text: "Yanlar\u0131ndan 'p\u0131rrr' diye ge\xE7ip kar\u015F\u0131lar\u0131na
+      dikilerek 'B\xF6\xF6\xF6!' diye ba\u011F\u0131rd\u0131.  "
 --- !u!1 &8398993585036865565
 GameObject:
   m_ObjectHideFlags: 0
@@ -1226,7 +1230,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\xD6fkeli"
+  m_text: "\xD6z\xFCr dileyerek yava\u015F\xE7a yanlar\u0131na yakla\u015Ft\u0131.  "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
   m_sharedMaterial: {fileID: 5647252035718468753, guid: e8cddd60f55d54b56abf042472d80c5a, type: 2}
@@ -1313,7 +1317,7 @@ MonoBehaviour:
   - language: EN
     text: 
   - language: TR
-    text: "\xD6fkeli"
+    text: "\xD6z\xFCr dileyerek yava\u015F\xE7a yanlar\u0131na yakla\u015Ft\u0131.  "
 --- !u!1 &8836284646694867506
 GameObject:
   m_ObjectHideFlags: 0
